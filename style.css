@@ -1,0 +1,61 @@
+div{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+     display: flex; 
+    flex-direction:column;
+    /* justify-content:center;  */
+    /* flex-wrap: wrap; */
+    /* align-items: flex-start; */
+    align-content: flex-start;
+
+    
+}
+#violet{
+   height:50px;
+   width: 50px;
+   background-color: violet;
+   color: white;
+   
+}
+#red{
+   height:50px;
+    width:50px;
+    background-color: red;
+    color: white;
+ }
+ #indigo{
+   height:50px;
+    width:50px;
+    background-color: indigo;
+    color: white;
+ }
+ #blue{
+   height:50px;
+    width: 50px;
+    background-color: blue;color: white;
+    /* flex-shrink:10; */
+    
+ }
+ #green{
+   height:50px;
+    width:50px;
+    background-color: green;color: white;
+ }
+ #yellow{
+   height:50px;
+    width: 50px;
+    background-color: yellow;color: white;
+    /* align-self:flex-end ; */
+ }
+#orange{
+   height:50px;
+   width: 50px;
+   background-color:  orange;color: white;
+}
+#orange{
+   height:50px;
+   width: 50px;
+   background-color:  orange;color: white;
+}
